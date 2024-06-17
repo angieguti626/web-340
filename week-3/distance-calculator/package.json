@@ -1,0 +1,13 @@
+{
+  "name": "distance-calculator",
+  "version": "1.0.0",
+  "main": "src/distance-calculator.js",
+  "scripts": {
+    "test": "node test/distance-calculator.spec.js",
+    "start": "node src/distance-calculator.js"
+  },
+  "keywords": [],
+  "author": "Angelica Gutierrez",
+  "license": "ISC",
+  "description": "Distances between planets in AU"
+}
