@@ -1,0 +1,13 @@
+{
+  "name": "taco-stand-app",
+  "version": "1.0.0",
+  "description": "Taco Stand App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/taco-stand.js",
+    "test": "node test/taco-stand.specs.js"
+  },
+  "keywords": [],
+  "author": "Angelica Gutierrez",
+  "license": "ISC"
+}
